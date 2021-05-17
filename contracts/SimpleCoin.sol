@@ -19,6 +19,7 @@ contract SimpleCoin {
 
     constructor() {
         _balances[msg.sender] = _totalSupply;
+        emit Transfer(address(0), msg.sender, _totalSupply);
     }
 
     function name() public view returns (string memory) {
