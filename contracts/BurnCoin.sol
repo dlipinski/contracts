@@ -18,8 +18,6 @@ contract BurnCoin {
         uint256 value
     );
 
-    event Burn(address indexed sender, uint256 amount, address indexed to);
-
     constructor() {
         _owner = msg.sender;
         _balances[msg.sender] = _totalSupply;

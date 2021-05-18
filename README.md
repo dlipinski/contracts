@@ -1,4 +1,10 @@
-Setup Metamask to Smart Chain Testnet
+### Usefull links:
+
+https://remix.ethereum.org/ - to compile and deploy contracts
+https://testnet.bscscan.com/ - to scan testnet contracts
+https://pancake.kiemtienonline360.com/ - to add liquiditiy and test coin like pancakeswap
+
+### Setup Metamask to Smart Chain Testnet
 
 1. Goto https://remix.ethereum.org/
 2. Create file and paste contract
@@ -8,8 +14,9 @@ Setup Metamask to Smart Chain Testnet
 6. Choose ENVIROMENT "Injected web3"
 7. Click deploy
 
+### Coins:
+
 SimpleCoin: https://testnet.bscscan.com/address/0xedf3682938577e48ebc67169550efd266ae8d953
 BurnCoin: https://testnet.bscscan.com/token/0xe91553380e8c97eb23b787c7d9353ac7c645092a
-
-0x0000000000000000000000000000000000000000
-0x0b8ea313afd6fc11bc55fd20d487033803723ee9
+FeeCoin: in progress
+AirdropCoin: in progress

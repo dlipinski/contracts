@@ -4,8 +4,8 @@ pragma solidity ^0.8.4;
 contract SimpleCoin {
     string private _name = "SimpleCoin";
     string private _symbol = "SCO";
-    uint256 private _totalSupply = (10**9) * (10**18);
     uint8 private _decimals = 18;
+    uint256 private _totalSupply = (10**9) * (10**18);
 
     mapping(address => uint256) private _balances;
     mapping(address => mapping(address => uint256)) private _allowances;
