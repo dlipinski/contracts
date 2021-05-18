@@ -1,5 +1,6 @@
 ### Usefull links:
 
+- https://testnet.binance.org/faucet-smart - to get some fake BNB
 - https://remix.ethereum.org/ - to compile and deploy contracts
 - https://testnet.bscscan.com/ - to scan testnet contracts
 - https://pancake.kiemtienonline360.com/ - to add liquiditiy and test coin like pancakeswap
