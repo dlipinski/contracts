@@ -4,7 +4,9 @@ https://remix.ethereum.org/ - to compile and deploy contracts
 https://testnet.bscscan.com/ - to scan testnet contracts
 https://pancake.kiemtienonline360.com/ - to add liquiditiy and test coin like pancakeswap
 
-### Setup Metamask to Smart Chain Testnet
+### Deploying contract do smart chain
+
+Pre: Setup Metamask to Smart Chain Testnet
 
 1. Goto https://remix.ethereum.org/
 2. Create file and paste contract
