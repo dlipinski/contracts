@@ -23,3 +23,8 @@ Pre: Setup Metamask to Smart Chain Testnet
 - BurnCoin: https://testnet.bscscan.com/token/0xe91553380e8c97eb23b787c7d9353ac7c645092a
 - FeeCoin: in progress
 - AirdropCoin: in progress
+
+
+
+/NotAScam: 0x526cdf6741aff157fcebe7a7256f49024364f402
+/NotAScam (testnet): 0xececb480999c3a52e63d6dd1eb7d0303979c0ad0
